@@ -1,6 +1,6 @@
-# Prelim-patterns
-Preliminary approaches to stock price/trajectory prediction
+# Trading with ML
 
-In this repo, I post my codes and approaches to build predictors and agents for trading in equity markets
+
+In this repo, I post my algo codes, helper tools and approaches to build predictors and agents for trading in equity markets
 
 
